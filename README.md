@@ -1,2 +1,1 @@
-# Bootstarp-part-seven
-just simple
+https://sazzadsourov.github.io/Bootstarp-part-seven/
